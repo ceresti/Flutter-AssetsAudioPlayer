@@ -6,3 +6,6 @@
 pubspec.lock
 
 build/
+.idea/misc.xml
+.idea/vcs.xml
+.idea/libraries/Flutter_Plugins.xml
